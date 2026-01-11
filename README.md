@@ -82,3 +82,6 @@ sda3  (extended)
 | `/boot`     | Bootloader files              |
 | `/var`      | Logs, databases               |
 
+- What is LVM?
+
+- LVM stands for Logical Volume Manager. It is a storage management layer in Linux that sits between partitions and filesystems and makes disk space flexible and easy to manage.
