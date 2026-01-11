@@ -53,9 +53,9 @@
 
 - difference between primary and logical partitions:
 
-- A primary partition is a main partition on a disk
+    - A primary partition is a main partition on a disk
 
-- A logical partition lives inside an extended partition
+    - A logical partition lives inside an extended partition
 
 ```
 sda1  (primary)
@@ -68,12 +68,12 @@ sda3  (extended)
 
 - What is the meaning of ext4?
 
-- ext4 means Fourth Extended Filesystem.
-- A filesystem defines how data is stored, organized, and retrieved on a partition.
+    - ext4 means Fourth Extended Filesystem.
+    - A filesystem defines how data is stored, organized, and retrieved on a partition.
 
 - What is the meaning of mount point?
 
-- A mount point is a folder that represents a disk or partition in the Linux directory tree.
+    - A mount point is a folder that represents a disk or partition in the Linux directory tree.
 
 | Mount point | Meaning                       |
 | ----------- | ----------------------------- |
@@ -84,4 +84,4 @@ sda3  (extended)
 
 - What is LVM?
 
-- LVM stands for Logical Volume Manager. It is a storage management layer in Linux that sits between partitions and filesystems and makes disk space flexible and easy to manage.
+    - LVM stands for Logical Volume Manager. It is a storage management layer in Linux that sits between partitions and filesystems and makes disk space flexible and easy to manage.
