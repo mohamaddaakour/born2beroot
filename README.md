@@ -9,4 +9,4 @@
 
 1. first we open virtual box and we click new
 
-[](./images/image.png)
+![[./images/image.png]]
