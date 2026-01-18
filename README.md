@@ -1,5 +1,6 @@
 # **Introduction**
 
+- Born2beroot is a system administration project that introduces you to the world of virtualization and server management. The project requires you to create and configure a virtual machine (typically using VirtualBox or UTM) running either Debian or Rocky Linux, implementing strict security and administrative rules.
 
 ## **What is a virtual machine?**
 
